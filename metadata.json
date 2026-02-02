@@ -1,0 +1,5 @@
+{
+  "name": "Concilia - Sistema de Conciliação Bancária IA",
+  "description": "Uma plataforma SaaS de conciliação bancária automática utilizando IA (Gemini) para match semântico, respeitando datas de início de contrato e com persistência local total.",
+  "requestFramePermissions": []
+}
